@@ -5,7 +5,7 @@ const mongoose = require('mongoose');
 // SRV resolution for MongoDB Atlas across diverse network/ISP environments.
 try {
   dns.setServers(['8.8.8.8', '1.1.1.1']);
-} catch (dnsErr) {
+} catch {
   // Gracefully continue with system default DNS if custom server setting is restricted
 }
 
