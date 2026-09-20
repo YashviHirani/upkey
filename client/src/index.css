@@ -1,0 +1,306 @@
+@import "tailwindcss";
+
+/* ==============================================================================
+   Joyory Warm Terracotta & Cream Theme Design Tokens
+   ============================================================================== */
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: #F6EFE9;
+    color: #231E1B;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-brand {
+    font-family: 'Outfit', sans-serif;
+  }
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/*
+   Restrained moving studio light for the 3D product journey.  These layers use
+   the existing cream, terracotta, and botanical-green palette and stay behind
+   the content, so the motion never reduces legibility.
+*/
+.ambient-background {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 50% 48%, rgba(255, 253, 249, 0.8) 0, rgba(246, 239, 233, 0) 42%),
+    linear-gradient(135deg, #f8f1ec 0%, #f6efe9 48%, #f3ebe4 100%);
+  background-size: 130% 130%;
+  animation: ambient-wash 24s ease-in-out infinite alternate;
+}
+
+.ambient-orb {
+  position: absolute;
+  width: clamp(19rem, 32vw, 36rem);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  filter: blur(68px);
+  opacity: 0.22;
+  will-change: transform;
+}
+
+.ambient-orb--terracotta {
+  top: 8%;
+  left: -10%;
+  background: #ef9e7d;
+  animation: ambient-drift-left 18s ease-in-out infinite alternate;
+}
+
+.ambient-orb--emerald {
+  top: 38%;
+  right: -11%;
+  width: clamp(18rem, 29vw, 33rem);
+  background: #8bb59a;
+  opacity: 0.16;
+  animation: ambient-drift-right 22s ease-in-out infinite alternate;
+}
+
+.ambient-orb--cream {
+  top: 22%;
+  left: 36%;
+  width: clamp(20rem, 34vw, 40rem);
+  background: #fffdfa;
+  opacity: 0.5;
+  filter: blur(52px);
+  animation: ambient-breathe 14s ease-in-out infinite alternate;
+}
+
+.ambient-aurora {
+  position: absolute;
+  width: min(68vw, 72rem);
+  height: min(22vw, 22rem);
+  border-radius: 50%;
+  filter: blur(32px);
+  opacity: 0.18;
+  will-change: transform, opacity;
+}
+
+.ambient-aurora--terracotta {
+  top: 25%;
+  left: -20%;
+  background: linear-gradient(100deg, transparent 8%, rgba(234, 124, 82, 0.78) 46%, transparent 82%);
+  transform: rotate(-16deg);
+  animation: ambient-aurora-left 16s ease-in-out infinite alternate;
+}
+
+.ambient-aurora--emerald {
+  right: -24%;
+  bottom: 17%;
+  background: linear-gradient(100deg, transparent 6%, rgba(80, 136, 93, 0.68) 49%, transparent 86%);
+  transform: rotate(13deg);
+  opacity: 0.13;
+  animation: ambient-aurora-right 19s ease-in-out -5s infinite alternate;
+}
+
+.ambient-follow {
+  position: absolute;
+  top: 47%;
+  left: 50%;
+  width: min(42vw, 38rem);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.5) 0%, rgba(255, 249, 242, 0.22) 30%, transparent 67%);
+  filter: blur(16px);
+  opacity: 0.72;
+  transform: translate3d(
+    calc(-50% + var(--ambient-shift-x, 0px)),
+    calc(-50% + var(--ambient-shift-y, 0px)),
+    0
+  );
+  transition: transform 850ms cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: transform;
+}
+
+.ambient-contour {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: min(70vw, 68rem);
+  aspect-ratio: 1.18;
+  border: 1px solid rgba(198, 163, 143, 0.16);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  will-change: transform;
+}
+
+.ambient-contour--one {
+  animation: ambient-ring 20s ease-in-out infinite alternate;
+}
+
+.ambient-contour--two {
+  width: min(52vw, 48rem);
+  border-color: rgba(75, 111, 82, 0.1);
+  animation: ambient-ring 16s ease-in-out -6s infinite alternate-reverse;
+}
+
+.ambient-particle {
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  border-radius: 999px;
+  opacity: 0;
+  box-shadow: 0 0 0 7px rgba(255, 255, 255, 0.14), 0 0 22px currentColor;
+  will-change: transform, opacity;
+}
+
+.ambient-particle--one {
+  top: 27%;
+  left: 20%;
+  color: #ea8a64;
+  background: #ea8a64;
+  animation: ambient-particle-one 12s ease-in-out infinite;
+}
+
+.ambient-particle--two {
+  top: 64%;
+  left: 34%;
+  width: 5px;
+  height: 5px;
+  color: #719b78;
+  background: #719b78;
+  animation: ambient-particle-two 15s ease-in-out -4s infinite;
+}
+
+.ambient-particle--three {
+  top: 20%;
+  right: 22%;
+  color: #e8a681;
+  background: #e8a681;
+  animation: ambient-particle-three 17s ease-in-out -8s infinite;
+}
+
+.ambient-particle--four {
+  right: 18%;
+  bottom: 25%;
+  width: 5px;
+  height: 5px;
+  color: #789f80;
+  background: #789f80;
+  animation: ambient-particle-four 13s ease-in-out -2s infinite;
+}
+
+.ambient-particle--five {
+  bottom: 20%;
+  left: 14%;
+  width: 4px;
+  height: 4px;
+  color: #f0b097;
+  background: #f0b097;
+  animation: ambient-particle-five 19s ease-in-out -11s infinite;
+}
+
+@keyframes ambient-wash {
+  from { background-position: 0% 15%; }
+  to { background-position: 100% 85%; }
+}
+
+@keyframes ambient-drift-left {
+  from { transform: translate3d(-3%, -4%, 0) scale(0.96); }
+  to { transform: translate3d(19%, 12%, 0) scale(1.08); }
+}
+
+@keyframes ambient-drift-right {
+  from { transform: translate3d(5%, -8%, 0) scale(1.04); }
+  to { transform: translate3d(-17%, 10%, 0) scale(0.94); }
+}
+
+@keyframes ambient-breathe {
+  from { transform: translate3d(-3%, -2%, 0) scale(0.94); opacity: 0.36; }
+  to { transform: translate3d(6%, 5%, 0) scale(1.08); opacity: 0.58; }
+}
+
+@keyframes ambient-aurora-left {
+  from { transform: translate3d(-8%, -10%, 0) rotate(-19deg) scale(0.9); opacity: 0.09; }
+  to { transform: translate3d(32%, 18%, 0) rotate(-8deg) scale(1.12); opacity: 0.23; }
+}
+
+@keyframes ambient-aurora-right {
+  from { transform: translate3d(12%, 8%, 0) rotate(10deg) scale(0.88); opacity: 0.07; }
+  to { transform: translate3d(-31%, -17%, 0) rotate(19deg) scale(1.1); opacity: 0.18; }
+}
+
+@keyframes ambient-ring {
+  from { transform: translate(-50%, -50%) scale(0.94) rotate(-3deg); opacity: 0.35; }
+  to { transform: translate(-50%, -50%) scale(1.07) rotate(3deg); opacity: 0.8; }
+}
+
+@keyframes ambient-particle-one {
+  0%, 100% { transform: translate3d(0, 12px, 0) scale(0.65); opacity: 0; }
+  30% { opacity: 0.5; }
+  65% { opacity: 0.14; }
+  82% { transform: translate3d(82px, -96px, 0) scale(1); opacity: 0; }
+}
+
+@keyframes ambient-particle-two {
+  0%, 100% { transform: translate3d(-8px, 5px, 0) scale(0.6); opacity: 0; }
+  25% { opacity: 0.36; }
+  72% { transform: translate3d(118px, -74px, 0) scale(1); opacity: 0.1; }
+}
+
+@keyframes ambient-particle-three {
+  0%, 100% { transform: translate3d(0, 0, 0) scale(0.6); opacity: 0; }
+  24% { opacity: 0.35; }
+  74% { transform: translate3d(-108px, 104px, 0) scale(1); opacity: 0.08; }
+}
+
+@keyframes ambient-particle-four {
+  0%, 100% { transform: translate3d(8px, 4px, 0) scale(0.55); opacity: 0; }
+  28% { opacity: 0.32; }
+  78% { transform: translate3d(-86px, -104px, 0) scale(1); opacity: 0.08; }
+}
+
+@keyframes ambient-particle-five {
+  0%, 100% { transform: translate3d(0, 0, 0) scale(0.5); opacity: 0; }
+  30% { opacity: 0.3; }
+  70% { transform: translate3d(102px, -126px, 0) scale(0.92); opacity: 0.08; }
+}
+
+@media (max-width: 63.99rem) {
+  .ambient-orb { opacity: 0.12; }
+  .ambient-orb--cream { opacity: 0.3; }
+  .ambient-aurora { opacity: 0.08; }
+  .ambient-follow { opacity: 0.45; }
+  .ambient-contour { width: 120vw; opacity: 0.5; }
+  .ambient-contour--two { width: 86vw; }
+  .ambient-particle { opacity: 0.12; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ambient-orb,
+  .ambient-aurora,
+  .ambient-contour,
+  .ambient-particle,
+  .ambient-background {
+    animation: none;
+  }
+
+  .ambient-follow {
+    transition: none;
+  }
+}
+
+/* Warm terracotta custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F6EFE9;
+}
+::-webkit-scrollbar-thumb {
+  background: #D9C8BA;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #E8633A;
+}

@@ -1,11 +1,16 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
+import tailwindcss from '@tailwindcss/vite';
 
+// ==============================================================================
+// Vite Configuration for Joyory Client
+// ==============================================================================
 export default defineConfig({
-  plugins: [react()],
-  // In local dev, the React app runs on :5173 but the Express API is on :5000.
-  // This proxy forwards /api/* requests to the backend, matching how Nginx
-  // does the same thing in production (see client/nginx.conf).
+  plugins: [
+    tailwindcss(),
+    react()
+  ],
+  // In local dev, Vite proxies /api requests to the Express backend (:5000)
   server: {
     proxy: {
       '/api': {
@@ -19,4 +24,3 @@ export default defineConfig({
     setupFiles: './src/test/setup.js',
   },
 });
-

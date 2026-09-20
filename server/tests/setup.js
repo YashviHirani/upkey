@@ -2,8 +2,10 @@ const mongoose = require('mongoose');
 const { MongoMemoryServer } = require('mongodb-memory-server');
 
 // Spins up a real (but temporary, in-memory) MongoDB instance for tests.
-// This means our tests exercise real Mongoose queries/validation, without
-// ever touching the real Atlas `devops` database.
+// Set generous timeout for embedded MongoDB startup
+if (typeof jest !== 'undefined') {
+  jest.setTimeout(30000);
+}
 let mongoServer;
 
 async function connectTestDB() {

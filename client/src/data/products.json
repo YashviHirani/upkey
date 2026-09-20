@@ -1,0 +1,1849 @@
+[
+  {
+    "id": "P001",
+    "name": "Foaming Rice Water Cleanser",
+    "brand": "PureBloom",
+    "category": "Cleanser",
+    "price_inr": 349,
+    "skin_type": "Oily|Combination",
+    "skin_tone": "All",
+    "concerns": "Oiliness|Dullness",
+    "key_ingredients": "Rice Water|Niacinamide",
+    "budget_tier": "Budget",
+    "rating": 4.3,
+    "dupe_of": "",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Oiliness",
+      "Dullness"
+    ],
+    "ingredients_list": [
+      "Rice Water",
+      "Niacinamide"
+    ]
+  },
+  {
+    "id": "P002",
+    "name": "Ceramide Gentle Cleansing Milk",
+    "brand": "DermaRoot",
+    "category": "Cleanser",
+    "price_inr": 899,
+    "skin_type": "Dry|Sensitive",
+    "skin_tone": "All",
+    "concerns": "Dryness|Sensitivity",
+    "key_ingredients": "Ceramides|Oat Extract",
+    "budget_tier": "Mid",
+    "rating": 4.5,
+    "dupe_of": "",
+    "skin_types": [
+      "Dry",
+      "Sensitive"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dryness",
+      "Sensitivity"
+    ],
+    "ingredients_list": [
+      "Ceramides",
+      "Oat Extract"
+    ]
+  },
+  {
+    "id": "P003",
+    "name": "Salicylic Acid Clarifying Wash",
+    "brand": "Skinly",
+    "category": "Cleanser",
+    "price_inr": 425,
+    "skin_type": "Oily|Combination",
+    "skin_tone": "All",
+    "concerns": "Acne|Oiliness",
+    "key_ingredients": "Salicylic Acid|Tea Tree",
+    "budget_tier": "Budget",
+    "rating": 4.2,
+    "dupe_of": "",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Acne",
+      "Oiliness"
+    ],
+    "ingredients_list": [
+      "Salicylic Acid",
+      "Tea Tree"
+    ]
+  },
+  {
+    "id": "P004",
+    "name": "Micellar Cleansing Water",
+    "brand": "Bare Essentials",
+    "category": "Cleanser",
+    "price_inr": 299,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "Sensitivity|Dullness",
+    "key_ingredients": "Micelles|Cucumber Extract",
+    "budget_tier": "Budget",
+    "rating": 4.1,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Sensitivity",
+      "Dullness"
+    ],
+    "ingredients_list": [
+      "Micelles",
+      "Cucumber Extract"
+    ]
+  },
+  {
+    "id": "P005",
+    "name": "Cream Cleanser with Peptides",
+    "brand": "Luminate",
+    "category": "Cleanser",
+    "price_inr": 1450,
+    "skin_type": "Dry|Normal",
+    "skin_tone": "All",
+    "concerns": "Aging|Dryness",
+    "key_ingredients": "Peptides|Shea Butter",
+    "budget_tier": "Premium",
+    "rating": 4.6,
+    "dupe_of": "",
+    "skin_types": [
+      "Dry",
+      "Normal"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Aging",
+      "Dryness"
+    ],
+    "ingredients_list": [
+      "Peptides",
+      "Shea Butter"
+    ]
+  },
+  {
+    "id": "P006",
+    "name": "Charcoal Deep-Clean Face Wash",
+    "brand": "Terra Botanica",
+    "category": "Cleanser",
+    "price_inr": 375,
+    "skin_type": "Oily",
+    "skin_tone": "All",
+    "concerns": "Oiliness|Pores",
+    "key_ingredients": "Activated Charcoal|Clay",
+    "budget_tier": "Budget",
+    "rating": 4.0,
+    "dupe_of": "",
+    "skin_types": [
+      "Oily"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Oiliness",
+      "Pores"
+    ],
+    "ingredients_list": [
+      "Activated Charcoal",
+      "Clay"
+    ]
+  },
+  {
+    "id": "P007",
+    "name": "Hyaluronic Hydra Mist Toner",
+    "brand": "PureBloom",
+    "category": "Toner",
+    "price_inr": 450,
+    "skin_type": "Dry|Normal",
+    "skin_tone": "All",
+    "concerns": "Dryness|Dullness",
+    "key_ingredients": "Hyaluronic Acid|Aloe Vera",
+    "budget_tier": "Budget",
+    "rating": 4.4,
+    "dupe_of": "",
+    "skin_types": [
+      "Dry",
+      "Normal"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dryness",
+      "Dullness"
+    ],
+    "ingredients_list": [
+      "Hyaluronic Acid",
+      "Aloe Vera"
+    ]
+  },
+  {
+    "id": "P008",
+    "name": "Glycolic Acid Resurfacing Toner",
+    "brand": "DermaRoot",
+    "category": "Toner",
+    "price_inr": 1100,
+    "skin_type": "Combination|Oily",
+    "skin_tone": "All",
+    "concerns": "Dullness|Uneven Tone",
+    "key_ingredients": "Glycolic Acid|Witch Hazel",
+    "budget_tier": "Mid",
+    "rating": 4.5,
+    "dupe_of": "",
+    "skin_types": [
+      "Combination",
+      "Oily"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dullness",
+      "Uneven Tone"
+    ],
+    "ingredients_list": [
+      "Glycolic Acid",
+      "Witch Hazel"
+    ]
+  },
+  {
+    "id": "P009",
+    "name": "Rosewater Balancing Toner",
+    "brand": "Roseate",
+    "category": "Toner",
+    "price_inr": 249,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "Sensitivity|Dullness",
+    "key_ingredients": "Rosewater|Glycerin",
+    "budget_tier": "Budget",
+    "rating": 4.2,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Sensitivity",
+      "Dullness"
+    ],
+    "ingredients_list": [
+      "Rosewater",
+      "Glycerin"
+    ]
+  },
+  {
+    "id": "P010",
+    "name": "Centella Calming Toner",
+    "brand": "Skinly",
+    "category": "Toner",
+    "price_inr": 599,
+    "skin_type": "Sensitive|Combination",
+    "skin_tone": "All",
+    "concerns": "Sensitivity|Acne",
+    "key_ingredients": "Centella Asiatica|Panthenol",
+    "budget_tier": "Budget",
+    "rating": 4.3,
+    "dupe_of": "",
+    "skin_types": [
+      "Sensitive",
+      "Combination"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Sensitivity",
+      "Acne"
+    ],
+    "ingredients_list": [
+      "Centella Asiatica",
+      "Panthenol"
+    ]
+  },
+  {
+    "id": "P011",
+    "name": "10% Niacinamide + Zinc Serum",
+    "brand": "Skinly",
+    "category": "Serum",
+    "price_inr": 549,
+    "skin_type": "Oily|Combination",
+    "skin_tone": "All",
+    "concerns": "Acne|Pores|Oiliness",
+    "key_ingredients": "Niacinamide|Zinc PCA",
+    "budget_tier": "Budget",
+    "rating": 4.5,
+    "dupe_of": "",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Acne",
+      "Pores",
+      "Oiliness"
+    ],
+    "ingredients_list": [
+      "Niacinamide",
+      "Zinc PCA"
+    ]
+  },
+  {
+    "id": "P012",
+    "name": "Vitamin C 15% Brightening Serum",
+    "brand": "Luminate",
+    "category": "Serum",
+    "price_inr": 1899,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "Dullness|Pigmentation|Uneven Tone",
+    "key_ingredients": "Vitamin C|Ferulic Acid",
+    "budget_tier": "Premium",
+    "rating": 4.7,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dullness",
+      "Pigmentation",
+      "Uneven Tone"
+    ],
+    "ingredients_list": [
+      "Vitamin C",
+      "Ferulic Acid"
+    ]
+  },
+  {
+    "id": "P013",
+    "name": "Vitamin C Glow Booster Serum",
+    "brand": "PureBloom",
+    "category": "Serum",
+    "price_inr": 599,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "Dullness|Pigmentation",
+    "key_ingredients": "Vitamin C|Turmeric",
+    "budget_tier": "Budget",
+    "rating": 4.2,
+    "dupe_of": "P012",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dullness",
+      "Pigmentation"
+    ],
+    "ingredients_list": [
+      "Vitamin C",
+      "Turmeric"
+    ]
+  },
+  {
+    "id": "P014",
+    "name": "Hyaluronic Acid Multi-Weight Serum",
+    "brand": "DermaRoot",
+    "category": "Serum",
+    "price_inr": 1250,
+    "skin_type": "Dry|Normal",
+    "skin_tone": "All",
+    "concerns": "Dryness|Aging",
+    "key_ingredients": "Hyaluronic Acid|Vitamin B5",
+    "budget_tier": "Mid",
+    "rating": 4.6,
+    "dupe_of": "",
+    "skin_types": [
+      "Dry",
+      "Normal"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dryness",
+      "Aging"
+    ],
+    "ingredients_list": [
+      "Hyaluronic Acid",
+      "Vitamin B5"
+    ]
+  },
+  {
+    "id": "P015",
+    "name": "Retinol 0.3% Night Renewal Serum",
+    "brand": "Luminate",
+    "category": "Serum",
+    "price_inr": 2100,
+    "skin_type": "Normal|Combination",
+    "skin_tone": "All",
+    "concerns": "Aging|Uneven Tone",
+    "key_ingredients": "Retinol|Squalane",
+    "budget_tier": "Premium",
+    "rating": 4.6,
+    "dupe_of": "",
+    "skin_types": [
+      "Normal",
+      "Combination"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Aging",
+      "Uneven Tone"
+    ],
+    "ingredients_list": [
+      "Retinol",
+      "Squalane"
+    ]
+  },
+  {
+    "id": "P016",
+    "name": "Bakuchiol Gentle Renewal Serum",
+    "brand": "Terra Botanica",
+    "category": "Serum",
+    "price_inr": 799,
+    "skin_type": "Sensitive|Normal",
+    "skin_tone": "All",
+    "concerns": "Aging|Sensitivity",
+    "key_ingredients": "Bakuchiol|Squalane",
+    "budget_tier": "Mid",
+    "rating": 4.3,
+    "dupe_of": "P015",
+    "skin_types": [
+      "Sensitive",
+      "Normal"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Aging",
+      "Sensitivity"
+    ],
+    "ingredients_list": [
+      "Bakuchiol",
+      "Squalane"
+    ]
+  },
+  {
+    "id": "P017",
+    "name": "Oil-Free Gel Moisturizer",
+    "brand": "Skinly",
+    "category": "Moisturizer",
+    "price_inr": 425,
+    "skin_type": "Oily|Combination",
+    "skin_tone": "All",
+    "concerns": "Oiliness|Acne",
+    "key_ingredients": "Niacinamide|Aloe Vera",
+    "budget_tier": "Budget",
+    "rating": 4.3,
+    "dupe_of": "",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Oiliness",
+      "Acne"
+    ],
+    "ingredients_list": [
+      "Niacinamide",
+      "Aloe Vera"
+    ]
+  },
+  {
+    "id": "P018",
+    "name": "Ceramide Barrier Repair Cream",
+    "brand": "DermaRoot",
+    "category": "Moisturizer",
+    "price_inr": 1350,
+    "skin_type": "Dry|Sensitive",
+    "skin_tone": "All",
+    "concerns": "Dryness|Sensitivity",
+    "key_ingredients": "Ceramides|Cholesterol",
+    "budget_tier": "Mid",
+    "rating": 4.7,
+    "dupe_of": "",
+    "skin_types": [
+      "Dry",
+      "Sensitive"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dryness",
+      "Sensitivity"
+    ],
+    "ingredients_list": [
+      "Ceramides",
+      "Cholesterol"
+    ]
+  },
+  {
+    "id": "P019",
+    "name": "Shea & Squalane Rich Cream",
+    "brand": "Terra Botanica",
+    "category": "Moisturizer",
+    "price_inr": 550,
+    "skin_type": "Dry",
+    "skin_tone": "All",
+    "concerns": "Dryness",
+    "key_ingredients": "Shea Butter|Squalane",
+    "budget_tier": "Budget",
+    "rating": 4.2,
+    "dupe_of": "P018",
+    "skin_types": [
+      "Dry"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dryness"
+    ],
+    "ingredients_list": [
+      "Shea Butter",
+      "Squalane"
+    ]
+  },
+  {
+    "id": "P020",
+    "name": "Peptide Firming Day Cream",
+    "brand": "Luminate",
+    "category": "Moisturizer",
+    "price_inr": 1999,
+    "skin_type": "Normal|Dry",
+    "skin_tone": "All",
+    "concerns": "Aging",
+    "key_ingredients": "Peptides|Collagen",
+    "budget_tier": "Premium",
+    "rating": 4.6,
+    "dupe_of": "",
+    "skin_types": [
+      "Normal",
+      "Dry"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Aging"
+    ],
+    "ingredients_list": [
+      "Peptides",
+      "Collagen"
+    ]
+  },
+  {
+    "id": "P021",
+    "name": "Lightweight Aqua Gel Cream",
+    "brand": "PureBloom",
+    "category": "Moisturizer",
+    "price_inr": 349,
+    "skin_type": "Oily|Normal",
+    "skin_tone": "All",
+    "concerns": "Oiliness|Dullness",
+    "key_ingredients": "Hyaluronic Acid|Cucumber",
+    "budget_tier": "Budget",
+    "rating": 4.1,
+    "dupe_of": "",
+    "skin_types": [
+      "Oily",
+      "Normal"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Oiliness",
+      "Dullness"
+    ],
+    "ingredients_list": [
+      "Hyaluronic Acid",
+      "Cucumber"
+    ]
+  },
+  {
+    "id": "P022",
+    "name": "Centella Recovery Cream",
+    "brand": "Skinly",
+    "category": "Moisturizer",
+    "price_inr": 650,
+    "skin_type": "Sensitive|Combination",
+    "skin_tone": "All",
+    "concerns": "Sensitivity|Acne",
+    "key_ingredients": "Centella Asiatica|Madecassoside",
+    "budget_tier": "Mid",
+    "rating": 4.4,
+    "dupe_of": "",
+    "skin_types": [
+      "Sensitive",
+      "Combination"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Sensitivity",
+      "Acne"
+    ],
+    "ingredients_list": [
+      "Centella Asiatica",
+      "Madecassoside"
+    ]
+  },
+  {
+    "id": "P023",
+    "name": "Matte Fluid SPF 50 Sunscreen",
+    "brand": "Skinly",
+    "category": "Sunscreen",
+    "price_inr": 499,
+    "skin_type": "Oily|Combination",
+    "skin_tone": "All",
+    "concerns": "Oiliness|Pigmentation",
+    "key_ingredients": "Zinc Oxide|Niacinamide",
+    "budget_tier": "Budget",
+    "rating": 4.4,
+    "dupe_of": "",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Oiliness",
+      "Pigmentation"
+    ],
+    "ingredients_list": [
+      "Zinc Oxide",
+      "Niacinamide"
+    ]
+  },
+  {
+    "id": "P024",
+    "name": "Tinted Mineral Sunscreen SPF 45",
+    "brand": "Luminate",
+    "category": "Sunscreen",
+    "price_inr": 1450,
+    "skin_type": "All",
+    "skin_tone": "Medium|Tan",
+    "concerns": "Pigmentation|Uneven Tone",
+    "key_ingredients": "Zinc Oxide|Iron Oxides",
+    "budget_tier": "Premium",
+    "rating": 4.6,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "Medium",
+      "Tan"
+    ],
+    "concerns_list": [
+      "Pigmentation",
+      "Uneven Tone"
+    ],
+    "ingredients_list": [
+      "Zinc Oxide",
+      "Iron Oxides"
+    ]
+  },
+  {
+    "id": "P025",
+    "name": "Tinted Everyday Sunscreen SPF 40",
+    "brand": "PureBloom",
+    "category": "Sunscreen",
+    "price_inr": 525,
+    "skin_type": "All",
+    "skin_tone": "Fair|Medium",
+    "concerns": "Pigmentation",
+    "key_ingredients": "Zinc Oxide|Niacinamide",
+    "budget_tier": "Budget",
+    "rating": 4.2,
+    "dupe_of": "P024",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "Fair",
+      "Medium"
+    ],
+    "concerns_list": [
+      "Pigmentation"
+    ],
+    "ingredients_list": [
+      "Zinc Oxide",
+      "Niacinamide"
+    ]
+  },
+  {
+    "id": "P026",
+    "name": "Hydrating Gel Sunscreen SPF 50",
+    "brand": "DermaRoot",
+    "category": "Sunscreen",
+    "price_inr": 750,
+    "skin_type": "Dry|Normal",
+    "skin_tone": "All",
+    "concerns": "Dryness|Pigmentation",
+    "key_ingredients": "Hyaluronic Acid|Titanium Dioxide",
+    "budget_tier": "Mid",
+    "rating": 4.5,
+    "dupe_of": "",
+    "skin_types": [
+      "Dry",
+      "Normal"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dryness",
+      "Pigmentation"
+    ],
+    "ingredients_list": [
+      "Hyaluronic Acid",
+      "Titanium Dioxide"
+    ]
+  },
+  {
+    "id": "P027",
+    "name": "No White Cast Sunscreen SPF 50",
+    "brand": "Terra Botanica",
+    "category": "Sunscreen",
+    "price_inr": 599,
+    "skin_type": "All",
+    "skin_tone": "Deep|Tan",
+    "concerns": "Pigmentation",
+    "key_ingredients": "Zinc Oxide|Vitamin E",
+    "budget_tier": "Budget",
+    "rating": 4.5,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "Deep",
+      "Tan"
+    ],
+    "concerns_list": [
+      "Pigmentation"
+    ],
+    "ingredients_list": [
+      "Zinc Oxide",
+      "Vitamin E"
+    ]
+  },
+  {
+    "id": "P028",
+    "name": "Clay Pore-Detox Mask",
+    "brand": "Terra Botanica",
+    "category": "Face Mask",
+    "price_inr": 399,
+    "skin_type": "Oily|Combination",
+    "skin_tone": "All",
+    "concerns": "Pores|Oiliness",
+    "key_ingredients": "Kaolin Clay|Charcoal",
+    "budget_tier": "Budget",
+    "rating": 4.2,
+    "dupe_of": "",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Pores",
+      "Oiliness"
+    ],
+    "ingredients_list": [
+      "Kaolin Clay",
+      "Charcoal"
+    ]
+  },
+  {
+    "id": "P029",
+    "name": "Overnight Hydration Sleep Mask",
+    "brand": "Luminate",
+    "category": "Face Mask",
+    "price_inr": 1250,
+    "skin_type": "Dry|Normal",
+    "skin_tone": "All",
+    "concerns": "Dryness|Dullness",
+    "key_ingredients": "Hyaluronic Acid|Honey",
+    "budget_tier": "Premium",
+    "rating": 4.6,
+    "dupe_of": "",
+    "skin_types": [
+      "Dry",
+      "Normal"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dryness",
+      "Dullness"
+    ],
+    "ingredients_list": [
+      "Hyaluronic Acid",
+      "Honey"
+    ]
+  },
+  {
+    "id": "P030",
+    "name": "Sheet Mask Brightening Set (5pc)",
+    "brand": "PureBloom",
+    "category": "Face Mask",
+    "price_inr": 349,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "Dullness|Pigmentation",
+    "key_ingredients": "Vitamin C|Niacinamide",
+    "budget_tier": "Budget",
+    "rating": 4.1,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dullness",
+      "Pigmentation"
+    ],
+    "ingredients_list": [
+      "Vitamin C",
+      "Niacinamide"
+    ]
+  },
+  {
+    "id": "P031",
+    "name": "Calming Oat Rescue Mask",
+    "brand": "Skinly",
+    "category": "Face Mask",
+    "price_inr": 549,
+    "skin_type": "Sensitive",
+    "skin_tone": "All",
+    "concerns": "Sensitivity|Dryness",
+    "key_ingredients": "Oat Extract|Panthenol",
+    "budget_tier": "Budget",
+    "rating": 4.3,
+    "dupe_of": "",
+    "skin_types": [
+      "Sensitive"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Sensitivity",
+      "Dryness"
+    ],
+    "ingredients_list": [
+      "Oat Extract",
+      "Panthenol"
+    ]
+  },
+  {
+    "id": "P032",
+    "name": "AHA/BHA Weekly Resurfacing Peel",
+    "brand": "DermaRoot",
+    "category": "Exfoliator",
+    "price_inr": 950,
+    "skin_type": "Combination|Oily",
+    "skin_tone": "All",
+    "concerns": "Dullness|Acne|Uneven Tone",
+    "key_ingredients": "Glycolic Acid|Salicylic Acid",
+    "budget_tier": "Mid",
+    "rating": 4.5,
+    "dupe_of": "",
+    "skin_types": [
+      "Combination",
+      "Oily"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dullness",
+      "Acne",
+      "Uneven Tone"
+    ],
+    "ingredients_list": [
+      "Glycolic Acid",
+      "Salicylic Acid"
+    ]
+  },
+  {
+    "id": "P033",
+    "name": "Gentle Walnut Scrub",
+    "brand": "Terra Botanica",
+    "category": "Exfoliator",
+    "price_inr": 299,
+    "skin_type": "Normal|Oily",
+    "skin_tone": "All",
+    "concerns": "Dullness|Pores",
+    "key_ingredients": "Walnut Shell Powder|Aloe Vera",
+    "budget_tier": "Budget",
+    "rating": 4.0,
+    "dupe_of": "",
+    "skin_types": [
+      "Normal",
+      "Oily"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dullness",
+      "Pores"
+    ],
+    "ingredients_list": [
+      "Walnut Shell Powder",
+      "Aloe Vera"
+    ]
+  },
+  {
+    "id": "P034",
+    "name": "Lactic Acid Smoothing Exfoliant",
+    "brand": "Skinly",
+    "category": "Exfoliator",
+    "price_inr": 699,
+    "skin_type": "Sensitive|Dry",
+    "skin_tone": "All",
+    "concerns": "Dullness|Sensitivity",
+    "key_ingredients": "Lactic Acid|Glycerin",
+    "budget_tier": "Budget",
+    "rating": 4.3,
+    "dupe_of": "",
+    "skin_types": [
+      "Sensitive",
+      "Dry"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dullness",
+      "Sensitivity"
+    ],
+    "ingredients_list": [
+      "Lactic Acid",
+      "Glycerin"
+    ]
+  },
+  {
+    "id": "P035",
+    "name": "Caffeine De-Puff Eye Cream",
+    "brand": "PureBloom",
+    "category": "Under-eye Cream",
+    "price_inr": 449,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "Dark Circles",
+    "key_ingredients": "Caffeine|Vitamin E",
+    "budget_tier": "Budget",
+    "rating": 4.2,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dark Circles"
+    ],
+    "ingredients_list": [
+      "Caffeine",
+      "Vitamin E"
+    ]
+  },
+  {
+    "id": "P036",
+    "name": "Peptide Eye Contour Cream",
+    "brand": "Luminate",
+    "category": "Under-eye Cream",
+    "price_inr": 1650,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "Dark Circles|Aging",
+    "key_ingredients": "Peptides|Hyaluronic Acid",
+    "budget_tier": "Premium",
+    "rating": 4.6,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dark Circles",
+      "Aging"
+    ],
+    "ingredients_list": [
+      "Peptides",
+      "Hyaluronic Acid"
+    ]
+  },
+  {
+    "id": "P037",
+    "name": "Vitamin C Brightening Eye Gel",
+    "brand": "Skinly",
+    "category": "Under-eye Cream",
+    "price_inr": 499,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "Dark Circles",
+    "key_ingredients": "Vitamin C|Cucumber Extract",
+    "budget_tier": "Budget",
+    "rating": 4.3,
+    "dupe_of": "P036",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dark Circles"
+    ],
+    "ingredients_list": [
+      "Vitamin C",
+      "Cucumber Extract"
+    ]
+  },
+  {
+    "id": "P038",
+    "name": "Matte Fit Foundation",
+    "brand": "Hueberry",
+    "category": "Foundation",
+    "price_inr": 899,
+    "skin_type": "Oily|Combination",
+    "skin_tone": "Fair",
+    "concerns": "Oiliness|Uneven Tone",
+    "key_ingredients": "Silica|Niacinamide",
+    "budget_tier": "Mid",
+    "rating": 4.3,
+    "dupe_of": "",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "skin_tones": [
+      "Fair"
+    ],
+    "concerns_list": [
+      "Oiliness",
+      "Uneven Tone"
+    ],
+    "ingredients_list": [
+      "Silica",
+      "Niacinamide"
+    ]
+  },
+  {
+    "id": "P039",
+    "name": "Matte Fit Foundation",
+    "brand": "Hueberry",
+    "category": "Foundation",
+    "price_inr": 899,
+    "skin_type": "Oily|Combination",
+    "skin_tone": "Medium",
+    "concerns": "Oiliness|Uneven Tone",
+    "key_ingredients": "Silica|Niacinamide",
+    "budget_tier": "Mid",
+    "rating": 4.3,
+    "dupe_of": "",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "skin_tones": [
+      "Medium"
+    ],
+    "concerns_list": [
+      "Oiliness",
+      "Uneven Tone"
+    ],
+    "ingredients_list": [
+      "Silica",
+      "Niacinamide"
+    ]
+  },
+  {
+    "id": "P040",
+    "name": "Matte Fit Foundation",
+    "brand": "Hueberry",
+    "category": "Foundation",
+    "price_inr": 899,
+    "skin_type": "Oily|Combination",
+    "skin_tone": "Tan",
+    "concerns": "Oiliness|Uneven Tone",
+    "key_ingredients": "Silica|Niacinamide",
+    "budget_tier": "Mid",
+    "rating": 4.3,
+    "dupe_of": "",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "skin_tones": [
+      "Tan"
+    ],
+    "concerns_list": [
+      "Oiliness",
+      "Uneven Tone"
+    ],
+    "ingredients_list": [
+      "Silica",
+      "Niacinamide"
+    ]
+  },
+  {
+    "id": "P041",
+    "name": "Matte Fit Foundation",
+    "brand": "Hueberry",
+    "category": "Foundation",
+    "price_inr": 899,
+    "skin_type": "Oily|Combination",
+    "skin_tone": "Deep",
+    "concerns": "Oiliness|Uneven Tone",
+    "key_ingredients": "Silica|Niacinamide",
+    "budget_tier": "Mid",
+    "rating": 4.4,
+    "dupe_of": "",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "skin_tones": [
+      "Deep"
+    ],
+    "concerns_list": [
+      "Oiliness",
+      "Uneven Tone"
+    ],
+    "ingredients_list": [
+      "Silica",
+      "Niacinamide"
+    ]
+  },
+  {
+    "id": "P042",
+    "name": "Skin-Like Dewy Foundation",
+    "brand": "Luminate",
+    "category": "Foundation",
+    "price_inr": 2200,
+    "skin_type": "Dry|Normal",
+    "skin_tone": "Medium",
+    "concerns": "Dryness|Dullness",
+    "key_ingredients": "Hyaluronic Acid|Squalane",
+    "budget_tier": "Premium",
+    "rating": 4.6,
+    "dupe_of": "",
+    "skin_types": [
+      "Dry",
+      "Normal"
+    ],
+    "skin_tones": [
+      "Medium"
+    ],
+    "concerns_list": [
+      "Dryness",
+      "Dullness"
+    ],
+    "ingredients_list": [
+      "Hyaluronic Acid",
+      "Squalane"
+    ]
+  },
+  {
+    "id": "P043",
+    "name": "Full Coverage Concealer",
+    "brand": "Hueberry",
+    "category": "Concealer",
+    "price_inr": 499,
+    "skin_type": "All",
+    "skin_tone": "Fair",
+    "concerns": "Dark Circles|Pigmentation",
+    "key_ingredients": "Vitamin E|Silica",
+    "budget_tier": "Budget",
+    "rating": 4.2,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "Fair"
+    ],
+    "concerns_list": [
+      "Dark Circles",
+      "Pigmentation"
+    ],
+    "ingredients_list": [
+      "Vitamin E",
+      "Silica"
+    ]
+  },
+  {
+    "id": "P044",
+    "name": "Full Coverage Concealer",
+    "brand": "Hueberry",
+    "category": "Concealer",
+    "price_inr": 499,
+    "skin_type": "All",
+    "skin_tone": "Medium",
+    "concerns": "Dark Circles|Pigmentation",
+    "key_ingredients": "Vitamin E|Silica",
+    "budget_tier": "Budget",
+    "rating": 4.2,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "Medium"
+    ],
+    "concerns_list": [
+      "Dark Circles",
+      "Pigmentation"
+    ],
+    "ingredients_list": [
+      "Vitamin E",
+      "Silica"
+    ]
+  },
+  {
+    "id": "P045",
+    "name": "Full Coverage Concealer",
+    "brand": "Hueberry",
+    "category": "Concealer",
+    "price_inr": 499,
+    "skin_type": "All",
+    "skin_tone": "Tan",
+    "concerns": "Dark Circles|Pigmentation",
+    "key_ingredients": "Vitamin E|Silica",
+    "budget_tier": "Budget",
+    "rating": 4.1,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "Tan"
+    ],
+    "concerns_list": [
+      "Dark Circles",
+      "Pigmentation"
+    ],
+    "ingredients_list": [
+      "Vitamin E",
+      "Silica"
+    ]
+  },
+  {
+    "id": "P046",
+    "name": "Full Coverage Concealer",
+    "brand": "Hueberry",
+    "category": "Concealer",
+    "price_inr": 499,
+    "skin_type": "All",
+    "skin_tone": "Deep",
+    "concerns": "Dark Circles|Pigmentation",
+    "key_ingredients": "Vitamin E|Silica",
+    "budget_tier": "Budget",
+    "rating": 4.3,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "Deep"
+    ],
+    "concerns_list": [
+      "Dark Circles",
+      "Pigmentation"
+    ],
+    "ingredients_list": [
+      "Vitamin E",
+      "Silica"
+    ]
+  },
+  {
+    "id": "P047",
+    "name": "Cream Blush Stick - Coral",
+    "brand": "NudeNectar",
+    "category": "Blush",
+    "price_inr": 399,
+    "skin_type": "All",
+    "skin_tone": "Fair|Medium",
+    "concerns": "Dullness",
+    "key_ingredients": "Shea Butter|Vitamin E",
+    "budget_tier": "Budget",
+    "rating": 4.4,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "Fair",
+      "Medium"
+    ],
+    "concerns_list": [
+      "Dullness"
+    ],
+    "ingredients_list": [
+      "Shea Butter",
+      "Vitamin E"
+    ]
+  },
+  {
+    "id": "P048",
+    "name": "Cream Blush Stick - Berry",
+    "brand": "NudeNectar",
+    "category": "Blush",
+    "price_inr": 399,
+    "skin_type": "All",
+    "skin_tone": "Tan|Deep",
+    "concerns": "Dullness",
+    "key_ingredients": "Shea Butter|Vitamin E",
+    "budget_tier": "Budget",
+    "rating": 4.4,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "Tan",
+      "Deep"
+    ],
+    "concerns_list": [
+      "Dullness"
+    ],
+    "ingredients_list": [
+      "Shea Butter",
+      "Vitamin E"
+    ]
+  },
+  {
+    "id": "P049",
+    "name": "Silk Powder Blush",
+    "brand": "Luminate",
+    "category": "Blush",
+    "price_inr": 1350,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "Dullness",
+    "key_ingredients": "Silk Powder|Mica",
+    "budget_tier": "Premium",
+    "rating": 4.5,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dullness"
+    ],
+    "ingredients_list": [
+      "Silk Powder",
+      "Mica"
+    ]
+  },
+  {
+    "id": "P050",
+    "name": "Matte Velvet Lipstick - Rosewood",
+    "brand": "Velvet & Vine",
+    "category": "Lipstick",
+    "price_inr": 599,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "",
+    "key_ingredients": "Vitamin E|Jojoba Oil",
+    "budget_tier": "Mid",
+    "rating": 4.5,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [],
+    "ingredients_list": [
+      "Vitamin E",
+      "Jojoba Oil"
+    ]
+  },
+  {
+    "id": "P051",
+    "name": "Matte Velvet Lipstick - Brick Red",
+    "brand": "Velvet & Vine",
+    "category": "Lipstick",
+    "price_inr": 599,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "",
+    "key_ingredients": "Vitamin E|Jojoba Oil",
+    "budget_tier": "Mid",
+    "rating": 4.4,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [],
+    "ingredients_list": [
+      "Vitamin E",
+      "Jojoba Oil"
+    ]
+  },
+  {
+    "id": "P052",
+    "name": "Hydrating Tinted Balm - Guava",
+    "brand": "NudeNectar",
+    "category": "Lipstick",
+    "price_inr": 299,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "Dryness",
+    "key_ingredients": "Shea Butter|Guava Extract",
+    "budget_tier": "Budget",
+    "rating": 4.2,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dryness"
+    ],
+    "ingredients_list": [
+      "Shea Butter",
+      "Guava Extract"
+    ]
+  },
+  {
+    "id": "P053",
+    "name": "Luxe Satin Lipstick - Mauve Nude",
+    "brand": "Luminate",
+    "category": "Lipstick",
+    "price_inr": 1650,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "",
+    "key_ingredients": "Shea Butter|Vitamin E",
+    "budget_tier": "Premium",
+    "rating": 4.6,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [],
+    "ingredients_list": [
+      "Shea Butter",
+      "Vitamin E"
+    ]
+  },
+  {
+    "id": "P054",
+    "name": "Satin Nude Lipstick - Mauve",
+    "brand": "Velvet & Vine",
+    "category": "Lipstick",
+    "price_inr": 549,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "",
+    "key_ingredients": "Shea Butter|Vitamin E",
+    "budget_tier": "Mid",
+    "rating": 4.3,
+    "dupe_of": "P053",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [],
+    "ingredients_list": [
+      "Shea Butter",
+      "Vitamin E"
+    ]
+  },
+  {
+    "id": "P055",
+    "name": "Overnight Lip Sleeping Mask",
+    "brand": "PureBloom",
+    "category": "Lip Balm",
+    "price_inr": 349,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "Dryness",
+    "key_ingredients": "Shea Butter|Honey",
+    "budget_tier": "Budget",
+    "rating": 4.4,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dryness"
+    ],
+    "ingredients_list": [
+      "Shea Butter",
+      "Honey"
+    ]
+  },
+  {
+    "id": "P056",
+    "name": "SPF 15 Daily Lip Balm",
+    "brand": "Bare Essentials",
+    "category": "Lip Balm",
+    "price_inr": 199,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "Dryness|Pigmentation",
+    "key_ingredients": "Zinc Oxide|Beeswax",
+    "budget_tier": "Budget",
+    "rating": 4.1,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dryness",
+      "Pigmentation"
+    ],
+    "ingredients_list": [
+      "Zinc Oxide",
+      "Beeswax"
+    ]
+  },
+  {
+    "id": "P057",
+    "name": "Ceramide Repair Lip Balm",
+    "brand": "DermaRoot",
+    "category": "Lip Balm",
+    "price_inr": 450,
+    "skin_type": "Dry|Sensitive",
+    "skin_tone": "All",
+    "concerns": "Dryness|Sensitivity",
+    "key_ingredients": "Ceramides|Shea Butter",
+    "budget_tier": "Budget",
+    "rating": 4.3,
+    "dupe_of": "",
+    "skin_types": [
+      "Dry",
+      "Sensitive"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dryness",
+      "Sensitivity"
+    ],
+    "ingredients_list": [
+      "Ceramides",
+      "Shea Butter"
+    ]
+  },
+  {
+    "id": "P058",
+    "name": "Volumizing Curl Mascara",
+    "brand": "Hueberry",
+    "category": "Mascara",
+    "price_inr": 549,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "",
+    "key_ingredients": "Castor Oil|Beeswax",
+    "budget_tier": "Mid",
+    "rating": 4.4,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [],
+    "ingredients_list": [
+      "Castor Oil",
+      "Beeswax"
+    ]
+  },
+  {
+    "id": "P059",
+    "name": "Waterproof Lengthening Mascara",
+    "brand": "NudeNectar",
+    "category": "Mascara",
+    "price_inr": 399,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "",
+    "key_ingredients": "Fiber Complex|Vitamin E",
+    "budget_tier": "Budget",
+    "rating": 4.2,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [],
+    "ingredients_list": [
+      "Fiber Complex",
+      "Vitamin E"
+    ]
+  },
+  {
+    "id": "P060",
+    "name": "Luxe Lash Volumizer",
+    "brand": "Luminate",
+    "category": "Mascara",
+    "price_inr": 1250,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "",
+    "key_ingredients": "Keratin|Castor Oil",
+    "budget_tier": "Premium",
+    "rating": 4.5,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [],
+    "ingredients_list": [
+      "Keratin",
+      "Castor Oil"
+    ]
+  },
+  {
+    "id": "P061",
+    "name": "Precision Felt-Tip Eyeliner",
+    "brand": "Hueberry",
+    "category": "Eyeliner",
+    "price_inr": 349,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "Sensitivity",
+    "key_ingredients": "Vitamin E",
+    "budget_tier": "Budget",
+    "rating": 4.3,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Sensitivity"
+    ],
+    "ingredients_list": [
+      "Vitamin E"
+    ]
+  },
+  {
+    "id": "P062",
+    "name": "Smudge-Proof Gel Eyeliner",
+    "brand": "Velvet & Vine",
+    "category": "Eyeliner",
+    "price_inr": 499,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "",
+    "key_ingredients": "Beeswax|Carnauba Wax",
+    "budget_tier": "Mid",
+    "rating": 4.2,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [],
+    "ingredients_list": [
+      "Beeswax",
+      "Carnauba Wax"
+    ]
+  },
+  {
+    "id": "P063",
+    "name": "Kohl Kajal Pencil",
+    "brand": "NudeNectar",
+    "category": "Eyeliner",
+    "price_inr": 149,
+    "skin_type": "Sensitive",
+    "skin_tone": "All",
+    "concerns": "Sensitivity",
+    "key_ingredients": "Castor Oil|Vitamin E",
+    "budget_tier": "Budget",
+    "rating": 4.1,
+    "dupe_of": "",
+    "skin_types": [
+      "Sensitive"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Sensitivity"
+    ],
+    "ingredients_list": [
+      "Castor Oil",
+      "Vitamin E"
+    ]
+  },
+  {
+    "id": "P064",
+    "name": "Cocoa Butter Deep Moisture Lotion",
+    "brand": "Bare Essentials",
+    "category": "Body Lotion",
+    "price_inr": 399,
+    "skin_type": "Dry",
+    "skin_tone": "All",
+    "concerns": "Dryness",
+    "key_ingredients": "Cocoa Butter|Vitamin E",
+    "budget_tier": "Budget",
+    "rating": 4.3,
+    "dupe_of": "",
+    "skin_types": [
+      "Dry"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dryness"
+    ],
+    "ingredients_list": [
+      "Cocoa Butter",
+      "Vitamin E"
+    ]
+  },
+  {
+    "id": "P065",
+    "name": "Niacinamide Brightening Body Lotion",
+    "brand": "Skinly",
+    "category": "Body Lotion",
+    "price_inr": 549,
+    "skin_type": "All",
+    "skin_tone": "All",
+    "concerns": "Dullness|Pigmentation",
+    "key_ingredients": "Niacinamide|Glycerin",
+    "budget_tier": "Budget",
+    "rating": 4.2,
+    "dupe_of": "",
+    "skin_types": [
+      "All"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dullness",
+      "Pigmentation"
+    ],
+    "ingredients_list": [
+      "Niacinamide",
+      "Glycerin"
+    ]
+  },
+  {
+    "id": "P066",
+    "name": "Silk Protein Body Butter",
+    "brand": "Luminate",
+    "category": "Body Lotion",
+    "price_inr": 1450,
+    "skin_type": "Dry|Sensitive",
+    "skin_tone": "All",
+    "concerns": "Dryness|Sensitivity",
+    "key_ingredients": "Silk Proteins|Shea Butter",
+    "budget_tier": "Premium",
+    "rating": 4.6,
+    "dupe_of": "",
+    "skin_types": [
+      "Dry",
+      "Sensitive"
+    ],
+    "skin_tones": [
+      "All"
+    ],
+    "concerns_list": [
+      "Dryness",
+      "Sensitivity"
+    ],
+    "ingredients_list": [
+      "Silk Proteins",
+      "Shea Butter"
+    ]
+  }
+]
