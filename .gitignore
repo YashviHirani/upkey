@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Environment variables (never commit real secrets)
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Internal plans and planning documents
+*plan*.md
+*.plan.md
+planning/
+devops-mern-project-plan.md
+learning-roadmap.md
+
