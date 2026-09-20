@@ -1,4 +1,13 @@
+const dns = require('dns');
 const mongoose = require('mongoose');
+
+// Configure public DNS resolvers (Google & Cloudflare) to ensure reliable
+// SRV resolution for MongoDB Atlas across diverse network/ISP environments.
+try {
+  dns.setServers(['8.8.8.8', '1.1.1.1']);
+} catch (dnsErr) {
+  // Gracefully continue with system default DNS if custom server setting is restricted
+}
 
 /**
  * MongoDB Atlas Connection Configuration
